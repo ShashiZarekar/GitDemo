@@ -1,10 +1,12 @@
 package Demo1;
 
-public class Signal {
+public class Signal2 {
 
 	public static void main(String[] args) {
 		
-		Signal st= new Signal();
+		//Signal code
+		
+		Signal2 st= new Signal2();
 		st.signalEx();
 	}
 	
