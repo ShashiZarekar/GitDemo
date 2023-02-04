@@ -4,6 +4,8 @@ public class Signal2 {
 
 	public static void main(String[] args) {
 		
+		//Signal code
+		
 		Signal2 st= new Signal2();
 		st.signalEx();
 	}
